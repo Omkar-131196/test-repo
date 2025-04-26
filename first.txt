@@ -1,1 +1,2 @@
 This is the first file of this session.
+This is the change made to check merge conflict.
